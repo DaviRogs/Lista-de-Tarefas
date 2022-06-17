@@ -1,45 +1,31 @@
-# APC-Dashboard
 
-<h4>DashBoard e gráficos desenvolvido em equipe durante o curso de Algoritmos e Programação de Computadores (APC) na UnB 2.2021</h4>
+
+# Lista-de-Tarefas-React
+
+<h4> Lista de tarefas simples desenvolvida durante capacitação da Orc'Estra (Empresa Júnior - UnB)</h4>
+
+<div align = 'center'>
+
+  <img height = "160" src = "src/Assets/orcLogo.png">
+
+</div>
+
 <br>
+<h3> Habilidades desenvolvidas: </h3>
 
-<h3> Habilidades Desenvolvidas pela Equipe: </h3>
-
-* Uso extensivo da linguagem python;
-* Uso e estudo de bibliotecas como Plotly, Dash e Pandas;
-* Criação, Manipulação e leitura de Dados;
-* Uso de Excel;
-* Formatação e desenvolvimento Web;
-* Integração entre HTML e CSS com Python;
-* UX Design;
-<br>
-
-<h3> SoftSkills Desenvolvidas em Equipe: </h3>
-
-* Gestão de pessoas;
-* Trabalho em equipe;
-* Planejamento;
-<br>
-
-# Instalações Necessárias:
-
-<h4>Será necessário instalar ou possuir 5 Bibliotecas:</h4>
-
-* Dash;
-* Plotly;
-* Pandas;
-* Openpyxl;
-
-<h4>Todos eles poderão ser instalados utilizando o 'pip install' no prompt de comando do windons ou linux.</h4>
+* Formatação e desenvolvimento web;
+* Integração linguagem de programação e HTML;
+* Utilização de TypeScript;
+* Utilização e treinamento de React.
 <br>
 
 # Linguagens Utilizadas:
 
 <div align = "center">
   
-  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/888/888859.png">
-  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/888/888847.png">
+  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   
 </div><br>
 
@@ -47,6 +33,6 @@
 
 <div align = "center" padding = "10px">
   
-  <img height = "65" src = "https://images.plot.ly/logo/new-branding/plotly-logomark.png">
+  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/1260/1260667.png">
   
 </div>
